@@ -589,6 +589,7 @@ Para el literal b
 ![image](https://user-images.githubusercontent.com/105259381/186582458-7e21cb1c-4e78-4aac-8858-4128cc9da59d.png)
 
 ### 4. VIDEO
+https://youtu.be/ZCKQ7cpesKM
 ### 5. CONCLUSIONES
 - Mediante la introducción de los números complejos se constituye una herramienta importante para el análisis de circuitos de ca. El sistema de números complejos es una forma de exresar matemáticamente una cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
 
